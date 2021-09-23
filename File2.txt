@@ -1,5 +1,8 @@
 Bug5: Added by teammate to check pull.
 
-Bug report 23/09/2021 
 
 Bug report: on origin by teammate to verify rebase
+
+Bug report1: 23/09/2021.
+
+Local Changes: 1 for WI6 File2 updated on local master
